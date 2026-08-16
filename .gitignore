@@ -1,0 +1,12 @@
+
+!server/uploads/**/.gitkeep
+# deployment
+*.log
+*.zip
+.env
+dist/
+node_modules/
+screenshots/
+server/data/
+server/uploads/**/*
+shots.mjs
